@@ -1,6 +1,8 @@
+/* set the font color of all h1 tags to be red */
 h1{
     color: red;
 }
+/* set the font color to gray and add a line to strike through anything with the class of completed */
 .completed{
     text-decoration: line-through;
     color: gray;
